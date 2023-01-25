@@ -21,14 +21,17 @@ const firebaseConfig = {
 // Initialize Firebase
 const firebaseApp = initializeApp(firebaseConfig);
 
-const porvider = new GoogleAuthProvider();
+const googlePorvider = new GoogleAuthProvider();
 
-porvider.setCustomParameters({
+googlePorvider.setCustomParameters({
   prompt: "select_account",
 });
 
 export const auth = getAuth();
-export const signInWithGooglePopup = () => signInWithPopup(auth, porvider);
+export const signInWithGooglePopup = () =>
+  signInWithPopup(auth, googlePorvider);
+export const signInWithGoogleRedirect = () =>
+  signInWithRedirect(auth, googlePorvider);
 
 export const db = getFirestore();
 
