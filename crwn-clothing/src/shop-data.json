@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Brown Brim",
+      "imageUrl": "images/shop-img/hats/brown-brim.png",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Blue Beanie",
+      "imageUrl": "images/shop-img/hats/blue-beanie.png",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "name": "Brown Cowboy",
+      "imageUrl": "images/shop-img/hats/brown-cowboy.png",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Grey Brim",
+      "imageUrl": "images/shop-img/hats/grey-brim.png",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Green Beanie",
+      "imageUrl": "images/shop-img/hats/green-beanie.png",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Palm Tree Cap",
+      "imageUrl": "images/shop-img/hats/palm-tree-cap.png",
+      "price": 14
+    },
+    {
+      "id": 7,
+      "name": "Red Beanie",
+      "imageUrl": "images/shop-img/hats/red-beanie.png",
+      "price": 18
+    },
+    {
+      "id": 8,
+      "name": "Wolf Cap",
+      "imageUrl": "images/shop-img/hats/wolf-cap.png",
+      "price": 14
+    },
+    {
+      "id": 9,
+      "name": "Blue Snapback",
+      "imageUrl": "images/shop-img/hats/blue-snapback.png",
+      "price": 16
+    }
+  ]
+  
